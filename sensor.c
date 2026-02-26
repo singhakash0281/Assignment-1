@@ -19,3 +19,4 @@ SensorError validateSensors(const SensorData *data)
 
     return SENSOR_OK;
 }
+int a =5;
